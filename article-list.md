@@ -2,6 +2,7 @@
 
 #### The importance of naming in programming
 `사람들이 많이 읽고 번역하는 클린코드 관련 글`
+
 https://carlalexander.ca/importance-naming-programming/
 
 
