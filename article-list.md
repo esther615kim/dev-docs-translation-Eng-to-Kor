@@ -1,3 +1,10 @@
+### Nov.2021
+
+7 tricks to work with Styled Components
+스타일드 컴포넌트 중급사용(context API 사용한 themeProvider 포함)
+https://javascript.plainenglish.io/react-7-tricks-to-work-with-styled-components-20eb155934b1
+
+
 ### Oct.2021
 
 #### The importance of naming in programming
