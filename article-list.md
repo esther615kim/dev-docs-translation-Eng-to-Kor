@@ -1,4 +1,8 @@
 ### Nov.2021
+Introduction to Test Driven Development in JavaScript
+https://www.pluralsight.com/guides/introduction-to-test-driven-development-in-javascript
+
+### Nov.2021
 
 7 tricks to work with Styled Components
 스타일드 컴포넌트 중급사용(context API 사용한 themeProvider 포함)
